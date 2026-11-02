@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Þrífast logo" width="160">
+</p>
+
 # Om Þrífast
 
 **Hvad er Þrífast?**
